@@ -1,7 +1,7 @@
 # CONTROL | Lunar Galaxy
 The early retextures before it became Forbidden Moon.
 
-<img src="https://imgur.com/NmNqkB4.png" height="400">
+<img src="https://imgur.com/NmNqkB4.png" height="400"> <img src="https://imgur.com/WswhmDl.png" width="400">
 
 ## Installation
 
